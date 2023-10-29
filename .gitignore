@@ -1,8 +1,14 @@
 .quickdrawcache/
 custom_100_image_images/
 google_100_image_images/
+custom_1000_image_images/
+google_1000_image_images/
+custom_3000_image_images/
+google_3000_image_images/
 Archive/
 google_1000_image_stroke_data
+google_3000_image_stroke_data
 google_100_image_stroke_data
 google_30_image_stroke_data
 google_50_image_stroke_data
+google_50_image_model
